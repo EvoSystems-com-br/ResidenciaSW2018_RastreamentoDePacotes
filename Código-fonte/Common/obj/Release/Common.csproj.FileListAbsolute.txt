@@ -1,0 +1,12 @@
+C:\Users\gusta\source\repos\AplicacaoArduino\Common\bin\Release\Common.dll
+C:\Users\gusta\source\repos\AplicacaoArduino\Common\bin\Release\Common.pdb
+C:\Users\gusta\source\repos\AplicacaoArduino\Common\bin\Release\MySql.Data.dll
+C:\Users\gusta\source\repos\AplicacaoArduino\Common\bin\Release\Newtonsoft.Json.dll
+C:\Users\gusta\source\repos\AplicacaoArduino\Common\bin\Release\Google.Protobuf.dll
+C:\Users\gusta\source\repos\AplicacaoArduino\Common\bin\Release\MySql.Data.xml
+C:\Users\gusta\source\repos\AplicacaoArduino\Common\bin\Release\Newtonsoft.Json.xml
+C:\Users\gusta\source\repos\AplicacaoArduino\Common\obj\Release\Common.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\AplicacaoArduino\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\AplicacaoArduino\Common\obj\Release\Common.csproj.CopyComplete
+C:\Users\gusta\source\repos\AplicacaoArduino\Common\obj\Release\Common.dll
+C:\Users\gusta\source\repos\AplicacaoArduino\Common\obj\Release\Common.pdb
