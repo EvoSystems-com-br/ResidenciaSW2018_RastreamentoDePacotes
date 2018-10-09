@@ -9,7 +9,6 @@ namespace Common.Models
     public class Veiculo
     {
         public virtual Guid VeiculoId { get; set; }
-        public virtual ICollection<Pacote> PacotesAtuais { get; set; }
-        public virtual Rota RotaAtual { get; set; }
+        public virtual Guid RotaAtual { get; set; }
     }
 }

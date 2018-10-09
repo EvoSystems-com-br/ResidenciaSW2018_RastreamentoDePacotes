@@ -1,10 +1,9 @@
 ﻿using Common.Models;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
+using System.Web.Script.Serialization;
 
 namespace Common.Services
 {
@@ -12,7 +11,8 @@ namespace Common.Services
     {
         private static readonly string google_url = "https://maps.googleapis.com/maps/api/geocode/json?";
         private static readonly string api_key = "AIzaSyDLZI5N0ja40O0Ix18QdbULbBMF3ViwxDk";
-        private static readonly HttpClient client = new HttpClient(); 
+        private static readonly HttpClient client = new HttpClient();
+        private static readonly JavaScriptSerializer serializer = new JavaScriptSerializer(); 
 
         public static async Task<LatLng> obterCoordenadas(Endereco endereco)
         {
@@ -23,7 +23,7 @@ namespace Common.Services
 
             var responseString = await client.GetStringAsync(url);
 
-            var response = Newtonsoft.Json.JsonConvert.DeserializeObject<GeocodingResponse>(responseString);
+            var response = serializer.Deserialize<GeocodingResponse>(responseString);
 
             if(response.status.Equals("OK"))
             {

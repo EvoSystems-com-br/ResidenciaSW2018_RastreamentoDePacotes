@@ -14,7 +14,5 @@ namespace Common.Models
         public virtual DateTime DataCadastro { get; set; }
         public virtual string Senha { get; set; }
         public virtual string Nome { get; set; }
-        public virtual ICollection<Pacote> PacotesRecebidos { get; set; }
-        public virtual ICollection<Pacote> PacotesEnviados { get; set; }
     }
 }

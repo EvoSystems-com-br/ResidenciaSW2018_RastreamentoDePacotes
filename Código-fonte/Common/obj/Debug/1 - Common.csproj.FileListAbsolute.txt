@@ -1,0 +1,25 @@
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Common.dll.config
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Common.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Common.pdb
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Antlr3.Runtime.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\FluentNHibernate.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Iesi.Collections.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\MySql.Data.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\NHibernate.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Remotion.Linq.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Google.Protobuf.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Antlr3.Runtime.xml
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\FluentNHibernate.xml
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Iesi.Collections.xml
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\MySql.Data.xml
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\NHibernate.xml
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Remotion.Linq.xml
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\obj\Debug\1 - Common.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\obj\Debug\1 - Common.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\obj\Debug\1 - Common.csproj.CopyComplete
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\obj\Debug\Common.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\obj\Debug\Common.pdb

@@ -9,7 +9,6 @@ namespace Common.Models
     public class Estacao
     {
         public virtual Guid EstacaoId { get; set; }
-        public virtual ICollection<Pacote> PacotesAtuais { get; set; }
         public virtual Endereco Endereco { get; set; }
         public virtual double Latitude { get; set; }
         public virtual double Longitude { get; set; }

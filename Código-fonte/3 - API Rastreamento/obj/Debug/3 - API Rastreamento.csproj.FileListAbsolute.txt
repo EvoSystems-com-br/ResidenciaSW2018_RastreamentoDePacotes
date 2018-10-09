@@ -1,0 +1,2 @@
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\3 - API Rastreamento\obj\Debug\3 - API Rastreamento.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\3 - API Rastreamento\obj\Debug\3 - API Rastreamento.csproj.CoreCompileInputs.cache

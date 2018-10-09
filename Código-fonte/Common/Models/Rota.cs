@@ -9,12 +9,12 @@ namespace Common.Models
     public class Rota
     {
         public virtual Guid RotaId { get; set; }
-        public virtual Pacote Pacote { get; set; }
-        public virtual Veiculo VeiculoTransporte { get; set; }
+        public virtual Guid VeiculoTransporte { get; set; }
         public virtual DateTime DataInicio { get; set; }
         public virtual DateTime DataFim { get; set; }
-        public virtual Estacao Origem { get; set; }
-        public virtual Estacao Destino { get; set; }
+        public virtual Guid Origem { get; set; }
+        public virtual Guid Destino { get; set; }
+        public virtual ICollection<Pacote> Pacotes { get; set; }
         public virtual ICollection<Localizacao> AmostrasLocalizacao { get; set; }
     }
 }
