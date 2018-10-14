@@ -1,6 +1,6 @@
 using System;
 
-namespace _3___API_Rastreamento.Areas.HelpPage.ModelDescriptions
+namespace APIRastreamento.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Use this attribute to change the name of the <see cref="ModelDescription"/> generated for a type.

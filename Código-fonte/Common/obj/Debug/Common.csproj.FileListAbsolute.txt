@@ -30,8 +30,14 @@ C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte
 C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\NHibernate.xml
 C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Remotion.Linq.xml
 C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Remotion.Linq.EagerFetching.xml
-C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\obj\Debug\Common.csprojAssemblyReference.cache
 C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\obj\Debug\Common.csproj.CopyComplete
 C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\obj\Debug\Common.dll
 C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\obj\Debug\Common.pdb
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\System.Web.Mvc.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\System.Web.WebPages.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\System.Web.Razor.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\gusta\source\repos\ResidenciaSW2018_RastreamentoDePacotes\Código-fonte\Common\obj\Debug\Common.csprojAssemblyReference.cache

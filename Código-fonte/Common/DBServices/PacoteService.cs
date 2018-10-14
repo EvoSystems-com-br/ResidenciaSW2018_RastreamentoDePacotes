@@ -71,7 +71,7 @@ namespace Common.DBServices
             }
         }
 
-        public static Pacote ObterPortag(Guid TagRFID)
+        public static Pacote ObterPorTag(Guid TagRFID)
         {
             try
             {

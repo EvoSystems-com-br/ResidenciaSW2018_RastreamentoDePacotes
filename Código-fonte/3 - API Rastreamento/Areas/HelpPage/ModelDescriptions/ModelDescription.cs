@@ -1,6 +1,6 @@
 using System;
 
-namespace _3___API_Rastreamento.Areas.HelpPage.ModelDescriptions
+namespace APIRastreamento.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace _3___API_Rastreamento.Areas.HelpPage
+namespace APIRastreamento.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {

@@ -46,7 +46,7 @@ namespace Common.DBServices
         {
             try
             {
-                if(endereco.EnderecoId.Equals(Guid.Empty))
+                if(endereco.EnderecoId == null)
                 {
                     var enderecoSimilar = ObterTodosEnderecos().Where(x => x.Latitude == endereco.Latitude)
                         .Where(x => x.Longitude == endereco.Longitude)

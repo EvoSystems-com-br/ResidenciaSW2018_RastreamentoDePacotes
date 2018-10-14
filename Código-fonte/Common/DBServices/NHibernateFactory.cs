@@ -22,8 +22,9 @@ namespace Common.DBServices
             .Mappings(m => m.FluentMappings
             .Add<UsuarioMap>()
             .Add<EnderecoMap>()
-            .Add<EstacaoMap>()
+            .Add<EstacaoService>()
             .Add<VeiculoMap>()
+            .Add<EmpresaMap>()
             );
             var session = _session.BuildConfiguration();
 

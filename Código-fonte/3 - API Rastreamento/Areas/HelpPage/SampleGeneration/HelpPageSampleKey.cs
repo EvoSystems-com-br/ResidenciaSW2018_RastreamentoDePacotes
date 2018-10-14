@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Net.Http.Headers;
 
-namespace _3___API_Rastreamento.Areas.HelpPage
+namespace APIRastreamento.Areas.HelpPage
 {
     /// <summary>
     /// This is used to identify the place where the sample should be applied.

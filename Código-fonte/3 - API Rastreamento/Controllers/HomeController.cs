@@ -1,15 +1,18 @@
-﻿using System;
+﻿using Common.Controllers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace _3___API_Rastreamento.Controllers
+namespace APIRastreamento.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController 
     {
         public ActionResult Index()
         {
+
+            Guid g = AuthUser.UsuarioId;
             ViewBag.Title = "Home Page";
 
             return View();

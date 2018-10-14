@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using _3___API_Rastreamento.Areas.HelpPage.ModelDescriptions;
-using _3___API_Rastreamento.Areas.HelpPage.Models;
+using APIRastreamento.Areas.HelpPage.ModelDescriptions;
+using APIRastreamento.Areas.HelpPage.Models;
 
-namespace _3___API_Rastreamento.Areas.HelpPage.Controllers
+namespace APIRastreamento.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

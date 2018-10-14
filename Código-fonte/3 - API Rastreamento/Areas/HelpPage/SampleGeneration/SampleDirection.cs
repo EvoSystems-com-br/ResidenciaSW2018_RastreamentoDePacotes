@@ -1,4 +1,4 @@
-namespace _3___API_Rastreamento.Areas.HelpPage
+namespace APIRastreamento.Areas.HelpPage
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response

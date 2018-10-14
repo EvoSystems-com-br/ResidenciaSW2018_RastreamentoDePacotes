@@ -57,7 +57,11 @@
     <Reference Include="System.Core" />
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\Web\bin\System.Web.Mvc.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -66,10 +70,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\BaseController.cs" />
+    <Compile Include="Controllers\ErrorController.cs" />
+    <Compile Include="DBServices\EmpresaService.cs" />
     <Compile Include="DBServices\EnderecoService.cs" />
+    <Compile Include="DBServices\VeiculoService.cs" />
+    <Compile Include="DBServices\EstacaoService.cs" />
+    <Compile Include="DBServices\LocalizacaoService.cs" />
     <Compile Include="DBServices\NHibernateFactory.cs" />
     <Compile Include="DBServices\PacoteService.cs" />
+    <Compile Include="DBServices\RotaService.cs" />
     <Compile Include="DBServices\UsuarioService.cs" />
+    <Compile Include="Mappings\EmpresaMap.cs" />
     <Compile Include="Mappings\EnderecoMap.cs" />
     <Compile Include="Mappings\EstacaoMap.cs" />
     <Compile Include="Mappings\LocalizacaoMap.cs" />
@@ -77,6 +89,7 @@
     <Compile Include="Mappings\RotaMap.cs" />
     <Compile Include="Mappings\UsuarioMap.cs" />
     <Compile Include="Mappings\VeiculoMap.cs" />
+    <Compile Include="Models\Empresa.cs" />
     <Compile Include="Models\Endereco.cs" />
     <Compile Include="Models\Estacao.cs" />
     <Compile Include="Models\LatLng.cs" />

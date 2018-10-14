@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace _3___API_Rastreamento.Controllers
+namespace APIRastreamento.Controllers
 {
     public class ValuesController : ApiController
     {

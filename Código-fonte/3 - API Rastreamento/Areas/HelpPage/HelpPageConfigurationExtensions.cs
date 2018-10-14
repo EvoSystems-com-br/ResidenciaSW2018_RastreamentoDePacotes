@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using _3___API_Rastreamento.Areas.HelpPage.ModelDescriptions;
-using _3___API_Rastreamento.Areas.HelpPage.Models;
+using APIRastreamento.Areas.HelpPage.ModelDescriptions;
+using APIRastreamento.Areas.HelpPage.Models;
 
-namespace _3___API_Rastreamento.Areas.HelpPage
+namespace APIRastreamento.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {
